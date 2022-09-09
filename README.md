@@ -1,5 +1,5 @@
 # Spotify
-Extracting data from Spotify using Spotipy library
+## Extracting data from Spotify using Spotipy library
 
 Spotify has a great API to give developers full access to all of the music data provided by the Spotify platform. 
 
